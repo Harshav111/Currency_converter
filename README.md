@@ -4,6 +4,7 @@
  Currency Converter
 
 A simple currency converter application built with React and Chakra UI. This app allows users to convert currencies using real-time exchange rates from Open Exchange Rates API.
+Try it   ="https://harshav111.github.io/Currency_converter/"
 
 
 Features
